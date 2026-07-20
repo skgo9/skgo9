@@ -4,7 +4,7 @@
 
 ### Backend Developer • AI Engineer • Java & Spring Boot Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+Microservices;AI+Engineering+%7C+LLMs+%7C+RAG;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=+Backend+Developer;Microservices;AI+Engineering+%7C+LLMs+%7C+RAG;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -18,7 +18,7 @@
 
 🚀 Currently building **MiniIAM**, a production-ready Multi-Tenant Identity & Access Management platform using Spring Boot Microservices.
 
-I enjoy building scalable applications that solve real-world problems while learning modern software engineering practices.
+I enjoy learning new tech stacks, building scalable applications that solve real-world problems while learning modern software engineering practices.
 
 ---
 
@@ -67,13 +67,20 @@ Java • Spring Boot • PostgreSQL • Docker • Redis • RabbitMQ • AWS
 
 ---
 
-### 🤖 AI Projects
+✈️ Travel Forge
 
-- RAG Applications
-- AI Agents
-- LLM Integrations
-- FastAPI APIs
-- LangChain Projects
+An AI-powered Multi-Agent Travel Planning Assistant that generates personalized itineraries using collaborative AI agents.
+
+**Key Features**
+- Multi-Agent workflow powered by LangGraph
+- Intelligent itinerary generation
+- Live web search integration
+- Context-aware travel recommendations
+- Persistent conversation memory
+- Interactive React frontend
+
+**Tech Stack**
+Python • FastAPI • LangGraph • LangChain • Groq LLM • Tavily API • PostgreSQL • React • Vercel • Render
 
 ---
 
