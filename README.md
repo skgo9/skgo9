@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Sanya Kulthia
 
-### Backend Developer • AI Engineer • Python and Java Enthusiast
+### Backend Developer • AI Engineer • Python & Java Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Microservices;AI+Engineering+%7C+LLMs+%7C+RAG;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
@@ -14,15 +14,15 @@
 
 🎓 MCA Student
 
-💡 Passionate about **Backend Development, AI Engineering, and Distributed Systems.**
+💡 Passionate about **Backend Development, AI Engineering, Distributed Systems, and Cloud Technologies.**
 
 🚀 Currently building **MiniIAM**, a production-ready Multi-Tenant Identity & Access Management platform using Spring Boot Microservices.
 
-✨ I enjoy learning new modern technologies, building scalable applications, and solving real-world problems through software engineering and AI.
+✨ I enjoy learning modern technologies, designing scalable systems, and building AI-powered applications that solve real-world problems.
 
 ---
 
-# 🌱 Interested Technologies
+# 🌱 Currently Exploring
 
 - Spring Boot Microservices
 - OAuth2 & JWT Authentication
@@ -38,7 +38,15 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,redis,rabbitmq,git,github,idea,aws,linux,vscode,postman,python,fastapi,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,mysql,docker,redis,rabbitmq,git,github,idea,aws,linux,vscode,postman,python,fastapi,react,pytorch,tensorflow" />
+
+</p>
+
+<p align="center">
+
+<strong>Also worked with:</strong><br>
+
+LangChain • LangGraph • Groq LLM • Tavily API • JWT • Spring Security • REST APIs • Eureka • API Gateway
 
 </p>
 
@@ -71,7 +79,7 @@
 
 **AI-powered Multi-Agent Travel Planning Assistant**
 
-Travel Forge helps users create personalized travel itineraries using multiple AI agents that collaborate to provide intelligent recommendations based on user preferences.
+Travel Forge is an intelligent travel planner that leverages multiple AI agents to generate personalized itineraries, discover destinations, and provide context-aware recommendations.
 
 ### ✨ Features
 
@@ -93,8 +101,11 @@ Travel Forge helps users create personalized travel itineraries using multiple A
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=skgo9&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skgo9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=skgo9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=skgo9&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -102,7 +113,9 @@ Travel Forge helps users create personalized travel itineraries using multiple A
 # 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=skgo9&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -110,7 +123,9 @@ Travel Forge helps users create personalized travel itineraries using multiple A
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/skgo9/skgo9/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/skgo9/skgo9/output/snake.svg" alt="Snake animation"/>
+
 </p>
 
 ---
@@ -133,6 +148,6 @@ Travel Forge helps users create personalized travel itineraries using multiple A
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=skgo9&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=skgo9&style=for-the-badge"/>
 
 </div>
