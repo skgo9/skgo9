@@ -23,7 +23,7 @@
 
 ###
 
-<h4 align="left">🚀About Me<br><br>I'm MCA student, looking for opportunities.in the data science field.I love building systems and projects that cater to a real-life problem, helping users in their daily lives .Whether it's a simple chatbot or a multimodal RAG system. <br><br>What i am passionate about:<br><br>🌱 Passionate about learning Data Science, AI, and new technologies  <br>🚀 Building projects that solve real-world problems  <br>🤝 Interested in contributing to meaningful and impactful projects  <br>🧠 Exploring the latest AI tools to simplify workflows and improve productivity  <br>⚡ Curious about AI automation, backend systems, and scalable solutions <br>🎯 Focused on improving problem-solving and development skills every day</h4>
+<h4 align="left">🚀About Me<br><br>I'm MCA student, looking for opportunities in the SDE/AI Engineering/Data Science field.I love building systems and projects that cater to a real-life problem, helping users in their daily lives. Whether it's a simple chatbot or a multimodal RAG system. <br><br>What i am passionate about:<br><br>🌱 Passionate about learning Ai engineering, Data Science, AI, and new technologies  <br>🚀 Building projects that solve real-world problems  <br>🤝 Interested in contributing to meaningful and impactful projects  <br>🧠 Exploring the latest AI tools to simplify workflows and improve productivity  <br>⚡ Curious about AI automation, backend systems, and scalable solutions <br>🎯 Focused on improving problem-solving and development skills every day</h4>
 
 ###
 
